@@ -1,0 +1,13 @@
+.env
+*.env
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+myenv/
+.env.local
+.env.development
+.env.production
+Generative-AI-Indepth-Basic-to-Advance/Advance RAG Reranking from Scratch/Reranking_from_Scratch.ipynb
